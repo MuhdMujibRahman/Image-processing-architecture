@@ -46,7 +46,7 @@ setuptools.setup(
     name             = 'keras-retinanet',
     version          = '0.5.1',
     description      = 'Keras implementation of RetinaNet object detection.',
-    url              = 'https://github.com/fizyr/keras-retinanet',
+    url              = 'https://github.com/MuhdMujibRahman/Image-processing-architecture',
     author           = 'Hans Gaiser',
     author_email     = 'h.gaiser@fizyr.com',
     maintainer       = 'Hans Gaiser',
